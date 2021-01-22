@@ -25,8 +25,11 @@ Setup
 * download the pictures below into the images folder
 
 ![1](https://github.com/becodeorg/BXL-Swartz-4-27/raw/master/1.The-Field/4.HTML-CSS/introduction/images/tim_berners_lee.jpg)
+
 ![2](https://github.com/becodeorg/BXL-Swartz-4-27/raw/master/1.The-Field/4.HTML-CSS/introduction/images/space_odyssey.jpg)
+
 ![3](https://github.com/becodeorg/BXL-Swartz-4-27/raw/master/1.The-Field/4.HTML-CSS/introduction/images/mister_hulot.jpg)
+
 ![4](https://github.com/becodeorg/BXL-Swartz-4-27/raw/master/1.The-Field/4.HTML-CSS/introduction/images/alien.jpg)
 
 HTML
