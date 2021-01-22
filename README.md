@@ -18,11 +18,11 @@ You might not know him, but as the inventor of HTML, [Tim Berners-Lee](https://f
 
 ## Instructions
 Setup
-* create the repository
-* create an images folder
-* add a project description to the README.md
-* add a link to the github page in the README.md
-* download the pictures below into the images folder
+- [x] create the repository
+- [x] create an images folder
+- [x] add a project description to the README.md
+- [x] add a link to the github page in the README.md
+- [x] download the pictures below into the images folder
 
 ![1](https://github.com/becodeorg/BXL-Swartz-4-27/raw/master/1.The-Field/4.HTML-CSS/introduction/images/tim_berners_lee.jpg)
 
@@ -33,27 +33,27 @@ Setup
 ![4](https://github.com/becodeorg/BXL-Swartz-4-27/raw/master/1.The-Field/4.HTML-CSS/introduction/images/alien.jpg)
 
 HTML
-* write the index.html
-* implement the icons
-* the result must look like the image below
-* Your code must be correctly indented
-* The code must be in HTML5
+- [x] write the index.html
+- [ ] implement the icons
+- [ ] the result must look like the image below
+- [ ] Your code must be correctly indented
+- [ ] The code must be in HTML5
 
 Note | the icons are part of [Font Awesome](https://www.bootstrapcdn.com/fontawesome/) you can use a [CDN](https://en.wikipedia.org/wiki/Content_delivery_network) like this [one](https://www.bootstrapcdn.com/fontawesome/) to implement it.
 
 ![HTML](https://github.com/becodeorg/BXL-Swartz-4-27/raw/master/1.The-Field/4.HTML-CSS/introduction/images/goal-html.png)
 
 CSS
-* write the style.css
-* separate the elements into different blocks
-* implement the open sans font
-* the result must look like the image below
+- [x] write the style.css
+- [ ] separate the elements into different blocks
+- [ ] implement the open sans font
+- [ ] the result must look like the image below
 
 ![CSS](https://github.com/becodeorg/BXL-Swartz-4-27/raw/master/1.The-Field/4.HTML-CSS/introduction/images/goal-css.png)
 
 
 Git
-* commit/push
-* deploy on a Github page
+- [ ] commit/push
+- [x] deploy on a Github page
 
 Link to my [tim-berners-lee page](https://luisromeroaraya.github.io/tim-berners-lee/)
