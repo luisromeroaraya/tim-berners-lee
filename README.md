@@ -34,10 +34,10 @@ Setup
 
 HTML
 - [x] write the index.html
-- [ ] implement the icons
+- [x] implement the icons
 - [ ] the result must look like the image below
-- [ ] Your code must be correctly indented
-- [ ] The code must be in HTML5
+- [x] Your code must be correctly indented
+- [x] The code must be in HTML5
 
 Note | the icons are part of [Font Awesome](https://www.bootstrapcdn.com/fontawesome/) you can use a [CDN](https://en.wikipedia.org/wiki/Content_delivery_network) like this [one](https://www.bootstrapcdn.com/fontawesome/) to implement it.
 
