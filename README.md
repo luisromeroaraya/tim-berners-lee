@@ -45,15 +45,15 @@ Note | the icons are part of [Font Awesome](https://www.bootstrapcdn.com/fontawe
 
 CSS
 - [x] write the style.css
-- [ ] separate the elements into different blocks
-- [ ] implement the open sans font
+- [x] separate the elements into different blocks
+- [x] implement the [open sans](https://fonts.google.com/specimen/Open+Sans) font
 - [ ] the result must look like the image below
 
 ![CSS](https://github.com/becodeorg/BXL-Swartz-4-27/raw/master/1.The-Field/4.HTML-CSS/introduction/images/goal-css.png)
 
 
 Git
-- [ ] commit/push
+- [x] commit/push
 - [x] deploy on a Github page
 
 Link to my [tim-berners-lee page](https://luisromeroaraya.github.io/tim-berners-lee/)
